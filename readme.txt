@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 Test "--no-ff"  to git merge.
 Test "feture".
 Test "trash".
+Test "merge".
