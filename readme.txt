@@ -8,3 +8,5 @@ Test "--no-ff"  to git merge.
 Test "feture".
 Test "trash".
 Test "merge".
+Test "stash"
+Test "OK".
